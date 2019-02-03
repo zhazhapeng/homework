@@ -1,3 +1,7 @@
 log.txt
+<<<<<<< HEAD
 /dir1
 git操作命令
+=======
+git操作命令.txt
+>>>>>>> login

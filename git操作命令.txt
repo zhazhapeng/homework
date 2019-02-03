@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 创建分支：git checkout login
 分支合并：回到主线后输入 git merge login
+=======
+创建分支：git branch login
+切换到分支：git checkout login
+>>>>>>> login
